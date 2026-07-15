@@ -142,8 +142,8 @@ Creating modern websites designed for Minecraft servers and gaming communities.
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuba1096&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kuba1096&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=Kuba1096&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" height="180px" alt="Kuba's Stats" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs?username=Kuba1096&layout=compact&theme=tokyonight&hide_border=true&v=1" height="180px" alt="Top Languages" />
 </p>
 
 ---

@@ -1,65 +1,177 @@
-# <p align="center">🎮 QIUBIXX | GAME & WEB DEVELOPER 🎮</p>
+<!-- ========================================= -->
+<!--              GitHub Profile               -->
+<!-- ========================================= -->
+
+<h1 align="center">Hi, I'm qiubixx 👋</h1>
+
+<h3 align="center">
+Co-Founder & Lead Developer @ Kubolo Studio
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Co--Founder-Kubolo%20Studio-green?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Lead%20Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Specialty-Minecraft%20%26%20Web%20Dev-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=3BA4F6&center=true&vCenter=true&width=700&lines=Lead+Developer+%40+Kubolo+Studio;Minecraft+Java+Developer;Web+%26+Server+Specialist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Co--Founder-Kubolo%20Studio-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lead%20Developer-Java%20%7C%20Minecraft-00C853?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialty-Minecraft%20Infrastructure-FF9800?style=for-the-badge&logo=minecraft&logoColor=white" />
 </p>
 
 ---
 
-## 👤 ABOUT ME & SKILLS
+## 👨‍💻 About Me
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👑 WHO I AM</h3>
-      <p>I am a developer from Poland and the co-founder of <b>Kubolo Studio</b>. I specialize in writing clean backend logic, designing modern websites, and configuring advanced server environments. I am highly focused on performance, security, and delivering polished, bug-free projects.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ MY SKILLS</h3>
-      <p>
-        <b>Languages & Backend:</b> Java, JavaScript, Node.js<br>
-        <b>Web Development:</b> HTML5, CSS3, Responsive Web Design<br>
-        <b>Minecraft Ecosystem:</b> Spigot/Paper API, BungeeCord, Velocity, MySQL/SQLite, server performance tuning
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Who I Am
+
+- 🚀 **Co-Founder & Lead Developer** at **Kubolo Studio**
+- ☕ Passionate about **Java & Minecraft development**
+- ⚡ Building scalable Minecraft networks and custom systems
+- 🌐 Creating responsive websites for gaming communities
+- 🎯 Focused on performance, clean architecture, and user experience
+- 💡 Always learning new technologies and improving existing projects
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ My Skills
+
+#### Minecraft Development
+- Java
+- Spigot API
+- Paper API
+- MySQL
+- SQLite
+- Dynamic GUI Systems
+- Custom Events
+- Configuration Systems
+
+#### Server Infrastructure
+- Paper
+- Purpur
+- BungeeCord
+- Velocity
+- LuckPerms
+- Server Optimization
+- Performance Tuning
+- Network Configuration
+
+#### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Landing Pages
+- Tebex Integration
+- CraftingStore Integration
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ WHAT I DO
+# ⚔️ Experience
 
-### 🔌 Minecraft Plugin Development
-* **Custom Spigot/Paper Plugins:** Writing dedicated Java plugins from scratch (commands, custom events, listeners) tailored specifically to server needs.
-* **Database Integration:** Connecting game systems to MySQL or SQLite databases to keep player statistics, virtual economies, and inventories synced.
-* **Interactive GUIs:** Creating dynamic in-game menus, interactive inventories, custom trading systems, and unique server-wide events.
+## ☕ Minecraft Plugin Development
 
-### 🏗️ Minecraft Server Setup & Optimization
-* **Network Infrastructure:** Designing and configuring multi-server networks using BungeeCord or Velocity, alongside game-mode servers (Survival, SkyBlock, Lobby, MiniGames).
-* **Performance Tuning:** Advanced configuration of server engines (Paper, Purpur) to ensure smooth 20 TPS gameplay even under heavy player loads.
-* **Security & Permissions:** Setting up bulletproof security schemes (anti-DDoS/anti-bot measures, exploit patches) and robust permission structures using LuckPerms.
+I specialize in creating high-quality Minecraft plugins with a strong focus on performance, scalability, and maintainability.
 
-### 💻 Web Development
-* **Responsive Websites:** Building fast, lightweight web interfaces (HTML5/CSS3/JS) that scale beautifully from mobile screens up to desktop monitors.
-* **Landings & Stores:** Developing portfolios, custom landing pages, and integrating online web stores (Tebex, CraftingStore) with game servers.
+### What I build
+
+- Custom gameplay mechanics
+- Dynamic inventory GUI systems
+- Database-driven plugins (MySQL & SQLite)
+- Custom commands and permissions
+- Event-based systems
+- Economy integrations
+- Configuration management
+- Clean and modular Java architecture
 
 ---
 
-## 📈 GITHUB STATS
+## 🌍 Minecraft Server Setup & Optimization
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuba1096&show_icons=true&theme=tokyonight&count_private=true" alt="Kuba's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba1096&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+Building stable and optimized Minecraft servers for communities and networks.
+
+### Experience includes
+
+- Paper & Purpur optimization
+- Keeping servers running at **20 TPS**
+- BungeeCord & Velocity network configuration
+- LuckPerms setup
+- Permissions management
+- Plugin configuration
+- Startup optimization
+- Lag reduction
+- Network maintenance
+
+---
+
+## 🌐 Web Development
+
+Creating modern websites designed for Minecraft servers and gaming communities.
+
+### I develop
+
+- Responsive websites
+- Landing pages
+- Server presentations
+- JavaScript interactions
+- Tebex integration
+- CraftingStore integration
+- Clean HTML/CSS architecture
+
+---
+
+# 🚀 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,sqlite,git,github,vscode,idea" />
+
 </p>
 
 ---
 
-## 📩 GET IN TOUCH
+# 📊 GitHub Statistics
 
-Have an idea for a project, need a custom plugin, or looking for an optimized Minecraft network setup? Drop me a line!
+<table>
+<tr>
+<td width="50%">
 
-* 💬 **Discord:** qiubixx
-* 🌐 **Our Studio Discord:** Join us, open a ticket, and let's build something together!
-* 📧 **Business Email:** kubacwierz69@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=Kuba1096&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba1096&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📫 Get in Touch
+
+<p align="center">
+
+💬 **Discord:** `qiubixx`
+
+📧 **Email:** **kubacwierz69@gmail.com**
+
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b><br>
+  <i>Building high-quality Minecraft experiences, one project at a time.</i>
+</p>
